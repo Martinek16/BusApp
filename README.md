@@ -12,7 +12,7 @@ Bus App is a mobile application developed using React Native and Expo. It provid
 
 ## Screenshots
 
-![Screenshot 1](.assets/screen/home2.jpg)
+![Screenshot 1](./assets/screen/home2.jpg)
 ![Screenshot 2](./images/screenshot2.png)
 
 ## Installation
