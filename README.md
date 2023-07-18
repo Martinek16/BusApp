@@ -9,8 +9,11 @@ The application was made for a final assignment. I made it for my hometown and s
 
 ### Home page
 
-![Home page](./assets/screen/home2.jpg "Home page")
-![Home page](./assets/screen/home.jpg "Home page")
+<img src="
+./assets/screen/home2.jpg" alt="Home page" width="300" height="600">
+<img src="
+./assets/screen/home.jpg" alt="Home page" width="300" height="600">
+
 
 ### TimeTable page
 
