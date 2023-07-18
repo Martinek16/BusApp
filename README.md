@@ -9,10 +9,8 @@ The application was made for a final assignment. I made it for my hometown and s
 
 ### Home page
 
-<img src="
-assets/screen/home2.jpg" alt="Home page" width="300" height="600">
-<img src="
-assets/screen/home.jpg" alt="Home page" width="300" height="600">
+![Home page](./assets/screen/home2.jpg "Home page")
+![Home page](./assets/screen/home.jpg "Home page")
 
 
 ### TimeTable page
@@ -40,5 +38,4 @@ The data for the mobile application is obtained from the API server that was cre
 ### Examples/documentation
 - Using the CLI in the [Getting Started](https://microsoft.github.io/react-native-windows/docs/getting-started) guide will set you up with a sample React Native for Windows app that you can begin editing right away.
 - all the documentation for Expo can be found at  [Expo Documentation](https://docs.expo.dev/)
-
 
